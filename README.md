@@ -10,6 +10,13 @@ Latest release: 0.1.0 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.doc
 
 **A docker image to redirect www.example.org to example.org or vice versa.**
 
+This image is intended to be used behind a reverse proxy.
+
+  - If the requested host is **www.example.org/whatever** the visitor will be redirected to **example.org/whatever**
+
+  - If the requested host is **example.org/whatever** the visitor will be redirected to **www.example.org/whatever**
+
+
 ### Under the hood: osixia/web-baseimage
 
 This image is based on osixia/web-baseimage.
