@@ -6,7 +6,7 @@
 
 [hub]: https://hub.docker.com/r/osixia/www-redirect/
 
-Latest release: 0.1.0 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/www-redirect/) 
+Latest release: 0.1.1 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/www-redirect/) 
 
 **A docker image to redirect www.example.org to example.org or vice versa.**
 
