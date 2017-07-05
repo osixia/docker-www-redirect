@@ -1,5 +1,5 @@
 NAME = osixia/www-redirect
-VERSION = 0.1.1
+VERSION = 0.2.0
 
 all: build
 
