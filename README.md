@@ -6,7 +6,7 @@
 
 [hub]: https://hub.docker.com/r/osixia/www-redirect/
 
-Latest release: 0.2.1 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/www-redirect/) 
+Latest release: 0.2.2 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/www-redirect/) 
 
 **A docker image to redirect www.example.org to example.org or vice versa.**
 
@@ -21,6 +21,11 @@ This image is intended to be used behind a reverse proxy.
 
 This image is based on osixia/web-baseimage.
 More info: https://github.com/osixia/docker-web-baseimage
+
+## Security
+If you discover a security vulnerability within this docker image, please send an email to the Osixia! team at security@osixia.net. For minor vulnerabilities feel free to add an issue here on github.
+
+Please include as many details as possible.
 
 ## Changelog
 
