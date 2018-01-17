@@ -9,11 +9,11 @@ and this project follows MariaDB versioning.
   - Use X-Forwarded-Proto HTTP header value if any otherwise $scheme as redirect protocol
 
 ## 0.2.1 - 2017-10-26
-### [Changed]
+### Changed
   - Upgrade baseimage to web-baseimage:1.1.1
 
 ## 0.2.0 - 2017-07-19
-### [Changed]
+### Changed
   - Upgrade baseimage to web-baseimage:1.1.0 (debian stretch)
 
 ## [0.1.1] - 2017-03-28
